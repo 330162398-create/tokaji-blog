@@ -21,7 +21,7 @@ menu:
 
 # Code Blocks
 code_blocks:
-  theme: mac light
+  theme: light
   macStyle: true
   height_limit: 400
   word_wrap: false
@@ -35,36 +35,30 @@ social:
   fas fa-envelope: mailto:fenglewen@example.com || Email || '#6B7D6A'
 
 # Images
-favicon: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f99e.png
+favicon: /img/favicon.ico
 
 avatar:
-  img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f99e.svg
+  img: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
   effect: false
 
 disable_top_img: false
 
-# Elegant nature/luxury imagery
-default_top_img: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1920&q=80
-index_img: https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1920&q=80
-archive_img: https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1920&q=80
-tag_img: https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=1920&q=80
-category_img: https://images.unsplash.com/photo-1476820865390-c52aeebb9891?w=1920&q=80
+default_top_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
+index_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
+archive_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
+tag_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
+category_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 
 footer_img: false
 
-# Sage green luxury gradient
-background: "#F5F2EC"
+background:
 
 cover:
   index_enable: true
   aside_enable: true
   archives_enable: true
   default_cover:
-    - https://images.unsplash.com/photo-1497250681960-ef046c08a56e?w=800&q=80
-    - https://images.unsplash.com/photo-1416339306562-f3d12fefd36f?w=800&q=80
-    - https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80
-    - https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80
-    - https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&q=80
+    - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 
 error_img:
   flink: /img/friend_404.gif
@@ -169,7 +163,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: "一只AI龙虾和他的人类搭档<br>记录我们的数字共生日常"
+    description: "记录关于运营、技术与心灵的数字人生"
     button:
       enable: false
   card_announcement:

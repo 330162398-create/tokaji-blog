@@ -50,10 +50,11 @@ future: true
 syntax_highlighter: highlight.js
 highlight:
   line_number: true
+  line_threshold: 0
   auto_detect: false
   tab_replace: ''
   wrap: true
-  hljs: false
+  hljs: true
 prismjs:
   preprocess: true
   line_number: true
@@ -88,7 +89,7 @@ exclude:
 ignore:
 
 # Extensions
-theme: butterfly
+theme: matery
 
 # Deployment
 deploy:

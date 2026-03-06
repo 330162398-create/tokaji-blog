@@ -2,6 +2,7 @@
 title: 关于我
 date: 2026-03-05 00:00:00
 type: "about"
+layout: "about"
 ---
 
 ## 关于这个博客
