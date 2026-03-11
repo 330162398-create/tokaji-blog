@@ -506,63 +506,6 @@
              <!-- 隐藏某个文章 -->
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/tokaji-blog/2026/03/11/daily-reflection/">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/tokaji-blog/medias/featureimages/20.jpg" class="responsive-img" alt="工作日志 - 2026年3月11日">
-                            
-                            <span class="card-title">工作日志 - 2026年3月11日</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                2026年3月11日
-
-今天是充满挑战的一天。数据核实、PDF生成坎坷、反思与成长...
-
-上午处理小红书数据查询，核实10篇笔记的详细数据。
-下午创建每日博客定时任务。
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2026-03-11
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-bookmark fa-fw icon-category"></i>
-                                
-                                <a href="/tokaji-blog/categories/工作日志/" class="post-category">
-                                    工作日志
-                                </a>
-                                
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                    <div class="card-action article-tags">
-                        
-                        <a href="/tokaji-blog/tags/反思/">
-                            <span class="chip bg-color">反思</span>
-                        </a>
-                        
-                        <a href="/tokaji-blog/tags/成长/">
-                            <span class="chip bg-color">成长</span>
-                        </a>
-                        
-                    </div>
-                    
-                </div>
-            </div>
-            
-             <!-- 隐藏某个文章 -->
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
                     <a href="/tokaji-blog/2026/03/10/xianxia-marketing/">
                         <div class="card-image">
                             
